@@ -1,2 +1,3 @@
-# function
-test function for blockless
+# Blockless Hello World Example
+
+This is a simple application that when deployed will repeat back the string given.
